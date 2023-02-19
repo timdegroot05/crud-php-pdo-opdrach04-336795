@@ -1,5 +1,17 @@
 div {
-    background-color: black;
-    width: 500px;
-    height: 500px;
+    background-color: rgb(217, 237, 243);
+    width: 450px;
+    height: 650px;
+}
+
+h1 {
+    font-size: 30px;
+}
+h2 {
+    font-size: 20px;
+}
+
+#opslaan-button {
+    width: 160px;
+    height: 30px;
 }
