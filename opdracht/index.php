@@ -26,7 +26,8 @@
                     <input type="checkbox">Nagelbijt arrangement (termijnbetaling mogelijk) €180 <br>
                     <input type="checkbox">Luxe manicure (massage en handpakking) €30,00 <br>
                     <input type="checkbox">nagelreparatie per nagel (in eerste week gratis) €5,00 <br><br>
-                    <input type="button" id="opslaan-button"> 
+                    <button id="opslaan-button">Sla op</button>
+                    <button id="reset-button">Reset</button>
         </div>
 </body>
 </html>

@@ -1,7 +1,7 @@
 div {
     background-color: rgb(217, 237, 243);
     width: 450px;
-    height: 650px;
+    height: 550px;
 }
 
 h1 {
@@ -11,7 +11,7 @@ h2 {
     font-size: 20px;
 }
 
-#opslaan-button {
+#opslaan-button, #reset-button {
     width: 160px;
     height: 30px;
 }
