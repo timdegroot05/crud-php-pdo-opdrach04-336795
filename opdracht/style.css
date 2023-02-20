@@ -17,11 +17,13 @@ h2 {
 }
 
 #opslaan-button, #reset-button {
-    width: 160px;
+    width: 170px;
     height: 35px;
     background-color: rgb(55, 0, 255);
     color: white;
     border-radius: 7px;
+    margin-left: 25px;
+    font-size: large;
 }
 
 #datum-tijd {

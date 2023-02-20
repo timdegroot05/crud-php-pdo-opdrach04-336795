@@ -21,6 +21,7 @@
                     <input type="email" id="e-mail" placeholder="kaas123@kaas123.com">
                 <h2>Afspraak datum/tijd:</h2>
                     <input type="datetime-local" id="datum-tijd">
+                    <input type="hidden">
                 <h2>Soort behandeling:</h2>
                     <input type="checkbox">Nagelbijt arrangement (termijnbetaling mogelijk) €180 <br>
                     <input type="checkbox">Luxe manicure (massage en handpakking) €30,00 <br>
