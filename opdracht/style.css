@@ -1,9 +1,11 @@
 div {
-    background-color: rgb(217, 237, 243);
+    background-color: rgba(250, 248, 248, 0.938);
     width: 420px;
     height: 550px;
     margin: auto;
     padding: 20px;
+    box-shadow: 10px 10px 5px #888888;
+    
 }
 
 h1 {
@@ -16,9 +18,10 @@ h2 {
 
 #opslaan-button, #reset-button {
     width: 160px;
-    height: 30px;
+    height: 35px;
     background-color: rgb(55, 0, 255);
     color: white;
+    border-radius: 7px;
 }
 
 #datum-tijd {
